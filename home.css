@@ -1132,8 +1132,11 @@ footer p{
     width: 250px;
 }
 
+}
 
-    
+
+
+
 /* flouting menu  */
 
 .menu{
@@ -1264,8 +1267,4 @@ footer p{
 .menu.active .menuToggle{
     color: red;
     transform: rotate(315deg);
-}
-
-    
-
 }
